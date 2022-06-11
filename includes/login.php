@@ -5,8 +5,8 @@
 
 <script src="https://accounts.google.com/gsi/client" async defer></script>
     <div id="g_id_onload"
-         data-client_id="API KEY AQUI "
-         data-login_uri="SUA URL AQUI"
+         data-client_id=" //INSERIR API KEY AQUI"
+         data-login_uri="//INSERIR URL QUE VOCÊ CADASTROU NO GOOGLE API AQUI !"
          data-auto_prompt="false">
      </div>
       <div class="g_id_signin"
