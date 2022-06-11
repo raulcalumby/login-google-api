@@ -19,7 +19,7 @@
 <ul>
   <li>Na pasta do projeto ,abra o terminal e digite: <b>Composer Install</b> </li>
   <li>Nas linhas comentadas com : 'Inserir client id' ou 'Inserir KEY' , você ira colocar seu cliente ID , e Sua KEY , feita pela suas credenciais no google cloud </li>
-  <li> Existe uma parte no footer.php que você deve //INSERIR A URL QUE VOCÊ CADASTROU NO GOOGLE API , ela deve ser a mesma do dominio atual, caso for para estudo provavelmente você ira por http://localhost"</li>
+  <li> Existe uma parte no login.php que você deve //INSERIR A URL QUE VOCÊ CADASTROU NO GOOGLE API , ela deve ser a mesma do dominio atual, caso for para estudo provavelmente você ira por http://localhost"</li>
 </ul>
 
 <h3>Projeto feito para estudos de APIS</h3>
