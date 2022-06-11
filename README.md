@@ -1,10 +1,10 @@
 # login-google-api
 
-<h3>Login Automático Google Api + PHP</h3>
-<h6>Detalhes:</h6>
+<h2>Login Automático Google Api + PHP</h2>
+<h5>Detalhes:</h5>
 <p>Esse projeto apenas, cria uma sessão php com seu email google , e exibe em uma tela seu nome e sua foto :)_ </p>
 
-<h6>Instruções</h6>
+<h5>Instruções</h5>
 <p>Dependencias:</p>
 <ul>
   <li><p><b>Para Linux:</b>  Instalar o Apache 2 , PHP 7.0 + ,Composer</p> <a href='https://bityli.com/WVEaeU' target="_blank">Acessar aqui</a></li>
